@@ -11,6 +11,7 @@ pip3 install selenium (in linux)
 
 pip install selenium (in windows)
 
+# Changes In Code
 In send_keys(username) - change username  by your Email or phonenumber
 
 In send_key(password) - change passwor by your  password
