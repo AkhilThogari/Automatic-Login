@@ -3,6 +3,7 @@ By Using this python Script u can login into specific websites automatically
 
 # Requirements
 1.Python 3.x
+
 2.selenium library
 
 # instalation of SELENIUM
