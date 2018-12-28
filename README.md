@@ -17,3 +17,9 @@ pip install selenium (in windows)
 In send_keys(username) - change username  by your Email or phonenumber
 
 In send_key(password) - change passwor by your  password
+
+Download Chrome Driver from above 
+
+# Change the location 
+
+driver = webdriver.Chrome('place Chrome_driver Location') 
